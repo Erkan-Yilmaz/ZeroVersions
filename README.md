@@ -23,16 +23,17 @@ How to run this?
 sh start_get_RESULT.sh
  
 we detect here the time of the result files, so I can determine how long the data was collected:
--rw-r--r--    1 tux      users            0 Mar 25 16:50 result_2016_03_25__16_50_20
--rw-r--r--    1 tux      users        27058 Mar 26 17:15 result_2016_03_26__17_15_24
+
+result_2016_03_25__16_50_20
+
+result_2016_03_26__17_15_24
  
  
-result in   : new9.txt
-frequency in: new9_frequency.txt
-peer amount:
-443 new9.txt
+result is in   : new9.txt
+frequency is in: new9_frequency.txt
+peer amount: 443 (from new9.txt)
  
-top5 used versions:
+top5 used ZeroNet versions:
      64 0.3.6 r1070
      51 0.3.6 r915
      50 0.3.6 r1015
