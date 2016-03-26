@@ -20,8 +20,8 @@ How to run this?
 		(you could also make a cron script instead)
 
 2. and to get the FINAL results, execute:
-3. 
-	sh ./start_get_RESULT.sh
+
+ 	sh ./start_get_RESULT.sh
 
 3. an example output of step 2. looks like this:
 
