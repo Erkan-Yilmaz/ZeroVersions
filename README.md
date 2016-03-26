@@ -1,4 +1,4 @@
-This is the scanner used at http://127.0.0.1:43110/ZeroVersions.txt
+This is the scanner used at http://127.0.0.1:43110/ZeroVersions.bit
 
 ZeroVersions makes uptodate checks which ZeroNet version is running by the peers.
 
