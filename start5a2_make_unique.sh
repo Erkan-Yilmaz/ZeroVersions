@@ -1,0 +1,1 @@
+cat new6.txt | uniq
