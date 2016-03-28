@@ -1,13 +1,17 @@
 This is the scanner used at http://127.0.0.1:43110/ZeroVersions.bit
 
-ZeroVersions makes uptodate checks which ZeroNet version is running by the peers.
+ZeroVersions makes uptodate checks which [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) version is running by the peers.
 
 I use here bash and python. This is by far not optimal, but it works. :-( For now...
 
-I am happy about bugs you find and other suggestions.
+If you want to help:
+* find bugs and send/fix them
+* make suggestions
+* send me your results, so we can add them also on [ZeroVersions.bit](http://127.0.0.1:43110/ZeroVersions.bit)
 
---------
+-----------------
 How to run this?
+-----------------
 
 1. start the watch monitor first:
 
@@ -22,6 +26,7 @@ How to run this?
 2. and to get the FINAL results, execute:
 
  	sh ./start_get_RESULT.sh
+
 
 3. an example output of step 2. looks like this:
 
@@ -54,5 +59,7 @@ top5 used ZeroNet versions (shows: found peers + the ZeroNet version):
 
 
 
-
-
+--------
+todo
+--------
+- add test files: so people can verify the scripts really work. On some systems the output of the used commands may vary, thus leading to other results.
